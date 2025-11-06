@@ -1,12 +1,12 @@
 <!-- Encabezado animado -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2E8BFF&center=true&vCenter=true&width=600&lines=👋+¡Hola!+Soy+Fabricio+Coledani!;Desarrollador+Full+Stack+en+formación;Apasionado+por+el+aprendizaje+y+la+tecnología" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=👋+¡Hola!+Soy+Fabri" alt="Typing SVG" />
 </h1>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/rudrabarad/Gifs/blob/master/Developer.gif" width="300" />
+  <img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" width="400" alt="developer animation" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 
 #### ⚙️ Backend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sqlserver" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sql" alt="Backend Skills" />
 </p>
 
 #### 🐳 DevOps y Otros  
